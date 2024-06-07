@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="str-producer" target="17" />
+      <module name="str-producer" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
